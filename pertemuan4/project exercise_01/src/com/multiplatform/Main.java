@@ -9,6 +9,5 @@ public class Main {
 
         long longValue = (50000 + 10L ) * (bytevalue + shortvalue + intvalue);
         System.out.println("longValue  = " + longValue);
-
     }
 }
